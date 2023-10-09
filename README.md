@@ -1,4 +1,4 @@
 -   Hi, I’m Mahesh Nidugala
 -  Currently I am pursuing my masters degree in Applied Computer Science.
 -  I have 4 years of work experience in backend development.
--  My technical expertise spans Java, Spring Framework, JavaScript, Node.js, Express.js.
+-  My technical expertise spans Java, Spring Framework, JavaScript, Node.js, Express.js, DevOps.
