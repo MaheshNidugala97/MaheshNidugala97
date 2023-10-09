@@ -6,3 +6,4 @@
   and maintenance of Java backend services and APIs.
 - My technical expertise spans **Java, Spring Framework, JavaScript, Node.js, Express.js, and DevOps**.
 - Email Id: <mahesh.nidugala.de@gmail.com>
+- [LinkedIn](https://www.linkedin.com/in/mahesh-nidugala/)
